@@ -1,4 +1,4 @@
-This is a sample test project structured with BDD and Given-When-Then style using Cucumber Framework that performs both UI and API tests using Selenium WebDriver and Rest-assured library. The project is setup using Page Object Model(POM) with Page Factory
+This is a sample test project structured with BDD and Given-When-Then style using Cucumber Framework that performs both UI and API tests on a demo site http://thedemosite.co.uk/login.php using Selenium WebDriver and Rest-assured library. The project is setup using Page Object Model(POM) with Page Factory
 
 #### Running the Tests
 - **Change browser name and driver paths in** *config.properties* **under** */config*. Currently supported browsers: *Chrome* and *Firefox*
